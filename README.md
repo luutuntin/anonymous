@@ -1,4 +1,4 @@
-# AMR2KB
+# anonymous
 build knowledge base from AMR
 
 AMRParsing is for generate AMR using CAMR
